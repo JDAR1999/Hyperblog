@@ -18,5 +18,6 @@ Un blog increible para todos nuestros espectadores
 * El verdadero amor por las buenas prácticas 
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por el increible Juan Diego
 
 Y como amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor [ve a ver el curso.](http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "ve a ver el curso.")
