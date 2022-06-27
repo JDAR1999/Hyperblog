@@ -9,7 +9,7 @@ Un blog increible para todos nuestros espectadores interesados en la poesia y el
 
 # Hyperblog  🤟 
 Un blog increible para todos nuestros espectadores
->EL CURSO DE GIT Y GITHUB DE PLATZI ES LO QUE ME HACÍA FAÑTA PARA TRIPLICAR MI SALARIO Y LANZARME A LA INDUSTRIA DEL TEJITO DE LA LANA SINTETICA CON MACHINE LEARNING
+>EL CURSO DE GIT Y GITHUB DE PLATZI ES LO QUE ME HACÍA FALTA PARA TRIPLICAR MI SALARIO Y LANZARME A LA INDUSTRIA DEL TEJITO DE LA LANA SINTETICA CON MACHINE LEARNING
 > - NIÑITA (filosofa china japonesa inventora de los palitos chinos y el wasabi)
 
 ## En este curso vemos de todo
